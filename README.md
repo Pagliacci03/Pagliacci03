@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎮 Fui desarrollador del videojuego AstroFighters
 
 ## Algunos de los proyectos en los que he trabajado
-- 🎵 Estudio de los géneros de Spotify para poder crear playlist personalizadas a los usuarios usando tecnicas de mineria de datos:
+- 🎵 Estudio de los géneros de Spotify para poder crear playlist personalizadas a los usuarios usando técnicas de minería de datos:
   https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos
   
 - 🎮 Desarrollo del videojuego AstroFighters:

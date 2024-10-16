@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Pagliacci03 👋
 
 <!--
 **Pagliacci03/Pagliacci03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Sobre mi
+- 🤓 Estudiante de ingeniería civil en computación de la universidad de Chile
+- 🎮 Desarrollador del videojuego AstroFighters
+
+## Algunos de los proyectos en los que he trabajado
+- 🎵 Estudio de los generos mas similares de Spotify para poder crear playlist personalizadas a los usuarios usando tecnicas de mineria de datos
+  https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos
+  
+- 🎮 Desarrollo del videojuego AstroFighters
+  https://rodrigodm.itch.io/astrofighters
+  
+- 💻 Implementación de un hashing lineal
+  https://github.com/Pagliacci03/hashing-lineal
+
+- 🍉 Retail para productores de frutas y verduras en Chile
+  https://github.com/Pagliacci03/AgrarioMarket

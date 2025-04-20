@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 - 🍉 Retail para productores de frutas y verduras en Chile:
   https://github.com/Pagliacci03/AgrarioMarket
+
+- 📱 Autoimplementación del protocolo signal:
+  https://github.com/Pagliacci03/Signal
